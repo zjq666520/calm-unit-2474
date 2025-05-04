@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "calm-unit-2474",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "3d93f248-3c78-4fa8-8c76-c950ca1c6beb",
+      "database_name": "white-mode-715b-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
